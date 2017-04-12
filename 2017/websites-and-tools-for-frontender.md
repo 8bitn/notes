@@ -5,10 +5,11 @@
 1. [Can I use][1] показывает в каких браузерах поддерживается та или иная технология.
 2. [Blend][2] - штука в которой можно задать начальный и конечный цвета и получить CSS3 градиент.
 3. [placehold.it][3] генерирует изображения-заглушки, еще есть [котики-заглушки][4].
-4. [WhatTheFont!][5] находит шрифт по загруженному изображению.
+4. [WhatTheFont!][5] находит шрифт по загруженному изображению. Есть [еще][6].
 
 [1]: http://caniuse.com
 [2]: http://colinkeany.com/blend/
 [3]: http://placehold.it/
 [4]: http://placekitten.com/
 [5]: https://www.myfonts.com/WhatTheFont
+[6]: https://www.fontsquirrel.com/matcherator

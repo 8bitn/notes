@@ -8,6 +8,7 @@
 4. [WhatTheFont!][5] находит шрифт по загруженному изображению. Есть [еще][6].
 5. [Автопрефиксер онлайн][7] сервис для управления вендорными префиксами в CSS.
 6. [Real Favicon Generator][8] генерирует файл favicon для многих современных платформ.
+7. [Nu Html Checker][9] - это валидатор HTML кода.
 
 [1]: http://caniuse.com
 [2]: http://colinkeany.com/blend/
@@ -17,3 +18,4 @@
 [6]: https://www.fontsquirrel.com/matcherator
 [7]: http://autoprefixer.github.io/ru/
 [8]: http://realfavicongenerator.net/
+[9]: https://validator.w3.org/nu/

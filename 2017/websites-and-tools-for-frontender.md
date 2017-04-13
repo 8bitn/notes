@@ -6,6 +6,7 @@
 2. [Blend][2] - штука в которой можно задать начальный и конечный цвета и получить CSS3 градиент.
 3. [placehold.it][3] генерирует изображения-заглушки, еще есть [котики-заглушки][4].
 4. [WhatTheFont!][5] находит шрифт по загруженному изображению. Есть [еще][6].
+5. [Автопрефиксер онлайн][7] сервис для управления вендорными префиксами в CSS.
 
 [1]: http://caniuse.com
 [2]: http://colinkeany.com/blend/
@@ -13,3 +14,4 @@
 [4]: http://placekitten.com/
 [5]: https://www.myfonts.com/WhatTheFont
 [6]: https://www.fontsquirrel.com/matcherator
+[7]: http://autoprefixer.github.io/ru/

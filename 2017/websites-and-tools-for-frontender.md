@@ -7,6 +7,7 @@
 3. [placehold.it][3] генерирует изображения-заглушки, еще есть [котики-заглушки][4].
 4. [WhatTheFont!][5] находит шрифт по загруженному изображению. Есть [еще][6].
 5. [Автопрефиксер онлайн][7] сервис для управления вендорными префиксами в CSS.
+6. [Real Favicon Generator][8] генерирует файл favicon для многих современных платформ.
 
 [1]: http://caniuse.com
 [2]: http://colinkeany.com/blend/
@@ -15,3 +16,4 @@
 [5]: https://www.myfonts.com/WhatTheFont
 [6]: https://www.fontsquirrel.com/matcherator
 [7]: http://autoprefixer.github.io/ru/
+[8]: http://realfavicongenerator.net/
